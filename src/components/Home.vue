@@ -652,7 +652,7 @@ body {
   margin-bottom: 1.5rem;
   animation: blink 1s infinite alternate; /* ทำให้กระพริบ */
   animation-delay: 2s;
-  text-shadow: 2px 2px 5px rgba(0, 255, 106, 0.8), 0 0 25px rgb(0, 255, 55), 0 0 5px rgb(11, 184, 69);
+  text-shadow: 2px 2px 5px rgba(255, 215, 0, 0.8), 0 0 25px gold, 0 0 5px darkgoldenrod;
 }
 
 .text2{
@@ -662,7 +662,7 @@ body {
 .text3 {
   font-size: 2.2rem;
   font-weight: bold;
-  color: white;
+  color: gold;
   text-align: center;
   display: inline-block;
   padding: 10px;
@@ -671,13 +671,13 @@ body {
   margin-bottom: 1.5rem;
   animation: blink 1s infinite alternate; /* ทำให้กระพริบ */
   animation-delay: 2s;
-  text-shadow: 2px 2px 5px rgba(0, 255, 106, 0.8), 0 0 25px rgb(0, 255, 55), 0 0 5px rgb(11, 184, 69);
+  text-shadow: 2px 2px 5px rgba(255, 215, 0, 0.8), 0 0 25px gold, 0 0 5px darkgoldenrod;
 }
 
 .text4 {
   font-size: 2.2rem;
   font-weight: bold;
-  color: white;
+  color: gold;
   text-align: center;
   display: inline-block;
   padding: 10px;
@@ -685,7 +685,7 @@ body {
   margin-top: 2.25rem;
   animation: blink 1s infinite alternate; /* ทำให้กระพริบ */
   animation-delay: 2s;
-  text-shadow: 2px 2px 5px rgba(0, 255, 106, 0.8), 0 0 25px rgb(0, 255, 55), 0 0 5px rgb(11, 184, 69);
+  text-shadow: 2px 2px 5px rgba(255, 215, 0, 0.8), 0 0 25px gold, 0 0 5px darkgoldenrod;
 }
 
 

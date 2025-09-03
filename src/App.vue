@@ -45,7 +45,7 @@ export default {
   left: 0;
   right: 0;
   bottom: 0;
-  background-image: url('/src/assets/bg-green.jpg'); 
+  background-image: url('/src/assets/bg-green3.png'); 
   background-size: cover;
   background-position: center;
   filter: blur(30px); 
